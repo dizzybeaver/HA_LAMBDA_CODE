@@ -3,6 +3,10 @@
 This LAMBDA is a distant relative of the original Jason HU LAMBDA and the setup from any tutorial online will work with this script.
 https://gist.github.com/matt2005/744b5ef548cc13d88d0569eea65f5e5b
 
+My setup is:
+Cloudflare Tunnel - Make sure to disable Bot Fight mode on domain or it will block all your requests.
+Amazon AWS and Alexa developer
+
 What is needed in AWS:
 
 The following variables are declared at the global (module) level and are necessary for the script to function properly:
